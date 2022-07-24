@@ -8,13 +8,16 @@ starttime = time.time()
 #H3T MAN
 api_id = 13811273
 api_hash = '03c686397abdcb6124880ab8f6de7595'
-message_here = '''⭐Launch: 17.00  UTC
-🟢Starting liqudity 0.3bnb 
-🟢Liquidity Lock 3days
-🟢Real Community
-🟢Liquidity locked immediately post launch 
+message_here = '''⭐Saudi SquidGrow!
 
-° Telegram : @mysterylaunch101
+Ownership Renounced ☑
+Low Tax ☑
+Strong community 💪
+Experienced team 🔥 
+
+Don't miss the next moonshot!
+
+Tg @SaudiSquidGrow
 --------------------------------------------'''
 
 
