@@ -18,7 +18,7 @@ message_here = '''⭐Launch: 17.00  UTC
 --------------------------------------------'''
 
 
-groups = ['@safeanalyzershill', '@PhillipsDiscussion', '@bezoscallsdiscussionn','@hitmansdiscussion','@Comet_Calls_Chat','@LemonCalls_GemDiscussion','@goobygamblers', '@seadoggs','@defigemsdiscussion','@DeveloperHubBSC']
+groups = ['@safeanalyzershill', '@bezoscallsdiscussionn','@hitmansdiscussion','@Comet_Calls_Chat','@DeveloperHubBSC']
 
 failcount = 0;
  
