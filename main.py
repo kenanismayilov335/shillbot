@@ -57,7 +57,7 @@ message_here = '''⭐️ 𝐗-𝐌𝐄𝐍 𝐌𝐀𝐑𝐊𝐄𝐓𝐈𝐍𝐆 
 --------------------------------------------'''
 
 
-groups = ['@defiandmore', '@uniswapgem123', '@KCC_Lovers', '@EliteCryptoShillers', '@RoseEnglishSignal', '@bscmoonz', '@uniswaptrollbox', '@MoonUrBSCtoken', '@UniswapGemGroup', '@bscmoon', '@UniswapObserver', '@DeFiPresales', '@chatbsc', '@cryptolux_tl', '@memeszn', '@ShillUSA', '@lauragem', '@bsc_moonshots', '@Defi_shill', '@GoodFellas_Cryptopicks', '@apeslounge', '@BscGemGlobal',]
+groups = ['@safeanalyzershill', '@LegoCallsLounge', '@bezoscallsdiscussionn', '@GengarReviewsLounge',]
 
 failcount = 0;
  
