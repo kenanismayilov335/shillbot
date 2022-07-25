@@ -21,7 +21,7 @@ Tg @SaudiSquidGrow
 --------------------------------------------'''
 
 
-groups = ['@safeanalyzershill', '@bezoscallsdiscussionn','@hitmansdiscussion','@Comet_Calls_Chat','@DeveloperHubBSC']
+groups = ['@safeanalyzershill', '@TM_ScamFucker','@COWBOYCAPITAL','@Homefordegens','@neverscamagain','@DegenHunters1','@bidaobi','@xiaopanzi8','@gongfushequ','@ChinaPumpCapital','@Pink_ChaHeYue','@AEShitCoin','@TM_ScamFuckerGlobal']
 
 failcount = 0;
  
