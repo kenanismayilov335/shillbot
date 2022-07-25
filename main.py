@@ -8,17 +8,8 @@ starttime = time.time()
 #H3T MAN
 api_id = 13811273
 api_hash = '03c686397abdcb6124880ab8f6de7595'
-message_here = '''⭐Saudi SquidGrow!
-
-Ownership Renounced ☑
-Low Tax ☑
-Strong community 💪
-Experienced team 🔥 
-
-Don't miss the next moonshot!
-
-Tg @SaudiSquidGrow
---------------------------------------------'''
+message_here = '''⭐0xa3e78761975d1e225f15ba7d27b213d252298f2c
+'''
 
 
 groups = ['@safeanalyzershill', '@TM_ScamFucker','@COWBOYCAPITAL','@Homefordegens','@neverscamagain','@DegenHunters1','@bidaobi','@xiaopanzi8','@gongfushequ','@ChinaPumpCapital','@Pink_ChaHeYue','@AEShitCoin','@TM_ScamFuckerGlobal']
