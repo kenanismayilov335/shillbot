@@ -8,11 +8,7 @@ starttime = time.time()
 #H3T MAN
 api_id = 13811273
 api_hash = '03c686397abdcb6124880ab8f6de7595'
-message_here = ''' Cheap call, No bot, Good volume buys
-0.15 bnb price
-https://t.me/LegoCalls
-
-dm @TheLegoCalls
+message_here = '''https://t.me/DogeExplode launching soon dev crypto explode calls
 '''
 
 
