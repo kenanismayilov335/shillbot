@@ -16,7 +16,7 @@ dm @TheLegoCalls
 '''
 
 
-groups = ['@DeveloperHubBSC']
+groups = ['@safeanalyzershill']
 
 failcount = 0;
  
@@ -32,5 +32,5 @@ while True:
                 print(x, sys.exc_info()[0])
                 failcount += 1
     print(datetime.datetime.now(), str(failcount/len(groups) * 100) + '%')
-    time.sleep(60 - ((time.time() - starttime) % 1))
+    time.sleep(45 - ((time.time() - starttime) % 1))
     
