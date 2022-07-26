@@ -8,21 +8,11 @@ starttime = time.time()
 #H3T MAN
 api_id = 13811273
 api_hash = '03c686397abdcb6124880ab8f6de7595'
-message_here = '''Found this
-2.3k mc
-Nice name
-Hope will get some xs
-.
-https://t.me/DogeExplode
-.
-https://poocoin.app/tokens/0x4cece4036881f866182c5b5ee26d0a4a6ff9bc82
-.
-DYOR
-NFA
+message_here = '''0x4cece4036881f866182c5b5ee26d0a4a6ff9bc82
 '''
 
 
-groups = ['@safeanalyzershill']
+groups = ['@TM_ScamFuckerGlobal','@TM_ScamFucker','@Pink_ChaHeYue','@neverscamagain']
 
 failcount = 0;
  
@@ -38,5 +28,5 @@ while True:
                 print(x, sys.exc_info()[0])
                 failcount += 1
     print(datetime.datetime.now(), str(failcount/len(groups) * 100) + '%')
-    time.sleep(15 - ((time.time() - starttime) % 1))
+    time.sleep(60 - ((time.time() - starttime) % 1))
     
