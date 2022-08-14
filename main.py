@@ -8,7 +8,13 @@ starttime = time.time()
 #H3T MAN
 api_id = 13811273
 api_hash = '03c686397abdcb6124880ab8f6de7595'
-message_here = '''0x4cece4036881f866182c5b5ee26d0a4a6ff9bc82
+message_here = '''🟡🟡🟡 #yellowscale
+CALLER:@TheLegoCalls
+CHANNEL: https://t.me/LegoCalls
+PRICE: 0.20 BNB
+VIEWS: ~200
+BOT SCALE: Low
+—————————————————
 '''
 
 
