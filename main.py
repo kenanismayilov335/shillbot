@@ -18,7 +18,7 @@ BOT SCALE: Low
 '''
 
 
-groups = ['@TM_ScamFuckerGlobal','@TM_ScamFucker','@Pink_ChaHeYue','@neverscamagain']
+groups = ['@safeanalyzershill']
 
 failcount = 0;
  
